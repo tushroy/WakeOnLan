@@ -1,0 +1,6 @@
+C:\Users\Tushar\Desktop\WakeOnLan\WakeOnLan\bin\Release\WakeOnLan.exe
+C:\Users\Tushar\Desktop\WakeOnLan\WakeOnLan\bin\Release\WakeOnLan.pdb
+C:\Users\Tushar\Desktop\WakeOnLan\WakeOnLan\obj\Release\WakeOnLan.csprojAssemblyReference.cache
+C:\Users\Tushar\Desktop\WakeOnLan\WakeOnLan\obj\Release\WakeOnLan.csproj.CoreCompileInputs.cache
+C:\Users\Tushar\Desktop\WakeOnLan\WakeOnLan\obj\Release\WakeOnLan.exe
+C:\Users\Tushar\Desktop\WakeOnLan\WakeOnLan\obj\Release\WakeOnLan.pdb
